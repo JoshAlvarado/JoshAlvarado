@@ -16,9 +16,9 @@
     <br />
     <a href="https://hashirshoaeb.github.io">About Me</a>
     ·
-    <a href="mailto:hashirshoaeb@gmail.com">Email</a>
+    <a href="mailto:josh.alvarado0328@gmail.com">Email</a>
     ·
-    <a href="https://linkedin.com/in/hashirshoaeb/">LinkedIn</a>
+    <a href="https://linkedin.com/in/Joshua-Alvarado/">LinkedIn</a>
   </samp>
 </p>
 
