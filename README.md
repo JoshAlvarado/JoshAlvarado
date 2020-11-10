@@ -10,11 +10,11 @@
     I love connecting with different people so if you want to say hi, I'll
     be happy to meet you! :)
     <br />
-    I'm currently looking for full-time Machine Learning and Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me.
-    <!-- <a href="https://hashirshoaeb.github.io">hashirshoaeb.github.io</a> -->
+    I'm currently looking for Machine Learning and Software Engineering internship opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me.
+    <!-- <a href="https://joshalvarado.github.io/">joshalvarado.github.io/</a> -->
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://joshalvarado.github.io/">About Me</a>
     ·
     <a href="mailto:josh.alvarado0328@gmail.com">Email</a>
     ·
