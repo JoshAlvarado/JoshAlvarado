@@ -13,7 +13,7 @@
     <!-- <a href="https://joshalvarado.github.io/">joshalvarado.github.io/</a> -->
     <br />
     <br />
-    <a href="https://joshalvarado.github.io/">About Me</a>
+    <a href="https://joshalvarado.github.io/">Website</a>
     ·
     <a href="mailto:josh.alvarado0328@gmail.com">Email</a>
     ·
