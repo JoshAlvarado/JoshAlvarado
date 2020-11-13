@@ -7,8 +7,7 @@
 
 <p align="center">
   <samp>
-    I love connecting with different people so if you want to say hi, I'll
-    be happy to meet you! :)
+    My name is Joshua Alvarado and I am currently studying computer and data science at CSUN
     <br />
     I'm currently looking for Machine Learning and Software Engineering internship opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me.
     <!-- <a href="https://joshalvarado.github.io/">joshalvarado.github.io/</a> -->
